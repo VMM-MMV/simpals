@@ -1,0 +1,16 @@
+fastapi[all]
+pymongo
+uvicorn
+graphene
+starlette-graphene3
+graphene_file_upload
+graphene-mongo
+mongoengine
+starlette.graphql
+python-dotenv
+graphql-core 
+graphene-pynamodb
+starlette 
+graphql-core-next
+fastapi-gql
+
